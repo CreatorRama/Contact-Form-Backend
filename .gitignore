@@ -1,0 +1,39 @@
+.env# Environment variables and secrets
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+logs/
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Local development files
+instance/
+.webassets-cache
