@@ -1,0 +1,56 @@
+{
+    "name": "Aman Pandey",
+    "contact": {
+        "address": "Dasna, Ghaziabad, 201015, U.P.",
+        "phone": "+91 6307552891",
+        "email": "ap410485@gmail.com",
+        "portfolio": "http://portfolio-frontend-puce-phi.vercel.app/",
+        "github": "https://github.com/CreatorRama",
+        "linkedin": "https://www.linkedin.com/in/aman-pandey-237728259",
+        "leetcode": "https://leetcode.com/u/ap410485/"
+    },
+    "summary": "Motivated and skilled full-stack developer with experience in frontend and backend technologies. Passionate about problem-solving, developing scalable applications, and optimizing web experiences. Enthusiastic about learning and implementing WordPress development.",
+    "skills": {
+        "frontend": ["React.js", "Tailwind CSS", "Canvas API", "SVG Animations"],
+        "backend": ["Flask", "Node.js", "Express.js"],
+        "databases": ["MongoDB", "SQL", "Sequelize ORM", "Mongoose ODM"],
+        "apis": ["Gemini API", "REST APIs"],
+        "tools": ["Git", "VS Code", "Chrome Dev Tools"],
+        "problem_solving": ["Data Structures and Algorithms (DSA)"]
+    },
+    "projects": [
+        {
+            "name": "AI Chatbot",
+            "description": "Built a conversational AI using Gemini API with React frontend and Flask backend",
+            "technologies": ["React.js", "Gemini API", "Flask", "react-markdown"],
+            "responsibilities": ["API integration", "UI development", "State management"],
+            "live_demo": "https://ai-chatbot-50b27.web.app/"
+        },
+        {
+            "name": "Custom Excalidraw",
+            "description": "Developed a drawing application with React-Konva and Konva.js",
+            "technologies": ["React-Konva", "Konva.js", "Canvas API"],
+            "features": ["Shape drawing", "Layer management", "Export functionality"],
+            "live_demo": "https://custom-excalidraw-app.vercel.app/"
+        }
+    ],
+    "education": {
+        "institution": "JMS Group of Institution",
+        "degree": "B.C.A - Computer Science",
+        "duration": "Aug 2022 - Present",
+        "cgpa": "7.5",
+        "location": "Ghaziabad, India"
+    },
+    "additional_learning": {
+        "DSA": ["LeetCode (100+ problems)", "PwSkills course completion"],
+        "Full-Stack": ["YouTube tutorials", "Official documentation", "ChatGPT research"]
+    },
+    "certifications": [
+        {
+            "name": "LeetCode 100 Days Streak",
+            "issuer": "LeetCode",
+            "date": "2023",
+            "url": "https://leetcode.com/"
+        }
+    ]
+}
